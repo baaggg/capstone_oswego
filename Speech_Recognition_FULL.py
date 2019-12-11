@@ -1,11 +1,9 @@
 import capstoneLib as cap
 import numpy as np
-import soundfile as sf
 import scipy.signal as sig
 import sounddevice as sd
 import serial
 import pandas as pd
-import sklearn.utils
 import time
 
 ##### Sampling Rate values and recorder initialization
